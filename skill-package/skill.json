@@ -1,5 +1,12 @@
 {
   "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {},
+        "interfaces": [],
+        "locales": {}
+      }
+    },
     "manifestVersion": "1.0",
     "publishingInformation": {
       "distributionCountries": [],
