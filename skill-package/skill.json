@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "ja-JP": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "アレクサ、aiアシスタントを起動して",
+            "ChatGPTとはなんですか？",
+            "ヘルプ"
+          ],
+          "keywords": [],
+          "name": "aiアシスタント",
+          "summary": "ChatGPTに質問ができるスキルです。"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}

@@ -1,0 +1,4 @@
+ask-resources.json
+.ask
+lambda/node_modules
+chat-gpt-api-key.js
