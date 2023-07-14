@@ -1,5 +1,5 @@
 const { Configuration, OpenAIApi } = require("openai")
-const chatGptApiKey = require('../../chat-gpt-api-key')
+const chatGptApiKey = require('../chat-gpt-api-key')
 
 /**
  * OpenAIチャット。
