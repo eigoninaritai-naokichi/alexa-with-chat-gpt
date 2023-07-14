@@ -6,7 +6,7 @@
 以下のインストール手順に従って、ご自身のアレクサにスキルをインストールできます。
 
 ## インストール方法
-1. (alexa developer console)[https://developer.amazon.com/alexa/console/ask]にログインします。
+1. [alexa developer console](https://developer.amazon.com/alexa/console/ask)にログインします。
 2. Alexaスキル一覧で「スキルの作成」をクリックします。
 3. スキル名を入力します。
 4. プライマリロケールを「日本語」に設定します。
@@ -35,7 +35,7 @@
 27. 質問すると、ChatGPTが回答します。
 28. 「終了」と話しかけるとスキルが終了します。
 
-- このスキルを使用するには、(amazon developer)[https://developer.amazon.com/ja/]のアカウントが必要です。
+- このスキルを使用するには、[amazon developer](https://developer.amazon.com/ja/)のアカウントが必要です。
 - このスキルを使用するには、OpenAIのChatGPTのAPIキーが必要です。
 
 ## 免責事項
