@@ -15,12 +15,12 @@
         "ja-JP": {
           "description": "Sample Full Description",
           "examplePhrases": [
-            "アレクサ、aiアシスタントを起動して",
+            "アレクサ、～を起動して",
             "ChatGPTとはなんですか？",
             "ヘルプ"
           ],
           "keywords": [],
-          "name": "aiアシスタント",
+          "name": "Your Custom Skill",
           "summary": "ChatGPTに質問ができるスキルです。"
         }
       },
